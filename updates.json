@@ -15,8 +15,8 @@
   },
   "darwin-x64-prod": {
     "readme": "Fourth Release",
-    "update": "https://github.com/snehag28/test_updater/releases/download/1.1.4/release.json",
-    "install": "https://github.com/snehag28/test_updater/releases/download/1.1.4/IBM_DSX_Desktop-1.1.4.dmg",
+    "update": "https://github.com/Vaishnavi-R/test_Update/releases/download/1.1.4/release.json",
+    "install": "https://github.com/Vaishnavi-R/test_Update/releases/download/1.1.4/IBM_DSX_Desktop-1.1.4.dmg",
     "version": "1.1.4",
     "size": "60 MB"
   },
